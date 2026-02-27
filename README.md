@@ -1,8 +1,10 @@
 🚨 Intelligent Anomaly Detection System for Digital Transaction Behavior Using ML
 
+
 A research-driven, hybrid machine learning-based web application designed to detect fraudulent digital transactions using behavioral analysis and anomaly detection techniques.
 
 This system simulates real-time transaction streams and applies a hybrid ML approach to identify suspicious patterns in financial activities.
+
 
 🚀 Project Overview
 
@@ -16,6 +18,7 @@ This project implements:
 ✔ Fraud Risk Scoring Dashboard
 ✔ Django-Based Web Interface
 
+
 🎯 Key Features
 
 📊 Real-Time Transaction Stream Simulation
@@ -25,6 +28,7 @@ This project implements:
 🌐 Django Web Dashboard
 📁 Admin Control Panel
 📉 Performance Metrics (Precision, Recall, F1-score, ROC-AUC)
+
 
 🧠 Hybrid Model Architecture
 
@@ -45,6 +49,7 @@ Provides fraud probability score
 🔁 Hybrid Workflow:
 
 Transaction → Preprocessing → Isolation Forest (Anomaly Score) → Random Forest (Classification) → Final Fraud Risk Output
+
 
 🛠️ Tech Stack
 
